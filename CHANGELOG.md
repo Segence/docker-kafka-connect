@@ -2,6 +2,16 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v0.5.0 - 2026-05-23
+#### Features
+- upgrades - (9be0ef2) - Rob Vadai
+- readme - (4a32585) - R Vadai
+- postgres - (d9dc7fd) - R Vadai
+- fix - (987bcbc) - R Vadai
+- upgrades - (c20c4fe) - R Vadai
+
+- - -
+
 ## v0.4.0 - 2026-05-18
 #### Features
 - actions - (31efb34) - Rob Vadai
