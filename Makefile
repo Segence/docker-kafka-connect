@@ -1,5 +1,5 @@
 ORGANIZATION := segence
-REPOSITORY := $(shell basename -s .git `git config --get remote.origin.url`)
+REPOSITORY := $(shell basename -s .git `git config --get remote.origin.url` | cut -c8-)
 VERSION := $(shell git describe --tags --match 'v*' --abbrev=0 | cut -c2-)
 
 FONT_ESC := $(shell printf '\033')
